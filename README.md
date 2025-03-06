@@ -5,11 +5,11 @@
 - Large Neighboorhood Search (LNS)
 - Greedy Large Neighboorhood Search (Greedy LNS)
 - Adaptive Large Neighboorhood Search (ALNS)
-## 3. Vertion 1 - solve TSP
+## 3. Version 1 - solve TSP
 - None drone
-## 4. Vertion 2 - solve TSPD
+## 4. Version 2 - solve TSPD
 - In this vertion, the source doesn't have constraits of wating time between truck and drone. Additional, the drone_limit_flight is infinity
-## 5. Vertion 3 - Solve TSPD with constraits
+## 5. Version 3 - Solve TSPD with constraits
 - In the lastest vertion, i use the fitness formula include Customer Sastification and Gas emission
 
 - About drone_limit_flight i use formula:
