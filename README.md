@@ -10,9 +10,7 @@
 ## 4. Vertion 2 - solve TSPD
 - In this vertion, the source doesn't have constraits of wating time between truck and drone. Additional, the drone_limit_flight is infinity
 ## 5. Vertion 3 - Solve TSPD with constraits
-- In the lastest vertion, i use the fitness formula include Customer Sastification and Gas emission:
-![alt text](image.png)
-
+- In the lastest vertion, i use the fitness formula include Customer Sastification and Gas emission
 
 - About drone_limit_flight i use formula:
             
